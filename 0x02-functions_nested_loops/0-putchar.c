@@ -1,12 +1,12 @@
 #include "main.h"
 
 /*
- * main - prints putchar
- *
- * Description: 'main description'
- *
- * Return : always 0
- */
+* main - prints putchar
+*
+* Description: 'main description'
+*
+* Return : always 0
+*/
 
 int main(void)
 {
