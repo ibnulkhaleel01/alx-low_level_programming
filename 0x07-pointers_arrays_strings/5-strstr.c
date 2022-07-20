@@ -9,6 +9,7 @@
  * the beginning of the located substring.
  * If the substring is not located - NULL.
  */
+
 char *_strstr(char *haystack, char *needle)
 {
 	int index;
@@ -28,7 +29,7 @@ char *_strstr(char *haystack, char *needle)
 
 				index++;
 
-			} while (haystack[index] == needle[index])
+			} while (haystack[index] == needle[index]);
 		}
 
 		haystack++;
