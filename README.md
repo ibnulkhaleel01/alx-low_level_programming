@@ -1,1 +1,1 @@
-Pointers Arrays Strings
+Low level programming
